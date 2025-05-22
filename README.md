@@ -17,7 +17,7 @@
 <!-- About Me -->
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on [WebhookNest – A request inspection tool like RequestBin.](https://webhooknest.vercel.app)
+- 🔭 I’m currently working on JournalNest – A feature-rich personal journaling application built with Spring Boot, MongoDB, React, and Tailwind CSS.
 - 🌱 I’m currently learning **Spring Security + JWT + OAuth 2, React, Framer Motion, Docker basics**
 - 👯 I’m looking to collaborate on **Open-source Spring Boot + React projects to improve real-world skills**
 - 📫 How to reach me: **harshgoyal2893@gmail.com**
